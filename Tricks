@@ -1,0 +1,18 @@
+How to fill the empty cells at a time with same value. ? 
+
+Ans: first select all the cells --> press ctrl + g  --> opens the go to box -->click the special button --> special button popup will appear
+--> choose the  blanks radio button --> click on ok --> all blank cells  are selected with a different color 
+--> and enter any value in any on blank cell --> press ctrl + enter --> typed/enter value appear in all the blank cells also.
+
+
+How to do percentage to all columns?
+
+Ans: select all the cells --> press the ctrl + 1 --> it will open the format cells -->select the custom
+--> in custom remove the general text and  type 0\% --> automatically calculate the %
+
+
+How to fill the top value in remain empty cells like ctrl + D?
+
+Ans select all the cells --> press ctrl + g --> click  special button --> special button popup appears --> choose the blanks -->
+Click on ok -->  it will select the all blank cells --> in one bank cell enter (= topcell(A1)) i.e =A1 --> ctrl + enter 
+--> automatically appears the top values to the blank cells
